@@ -1,0 +1,43 @@
+{
+    "Legal Aid": [
+      "Free legal services are provided through NALSA (National Legal Services Authority).",
+      "The DISHA Scheme supports holistic access to justice.",
+      "Legal aid clinics are available at district and block levels.",
+      "Fast Track Special Courts (FTSCs) handle POCSO and sexual assault cases.",
+      "Legal assistance is available for undertrial prisoners through state legal aid bodies."
+    ],
+    "Judicial Salary": [
+      "Chief Justice of India: ₹2,80,000/month + allowances.",
+      "Supreme Court Judge: ₹2,50,000/month; High Court Judge: ₹2,25,000/month.",
+      "Furnishing allowance: ₹6-10 lakhs based on position.",
+      "Pension: ₹13.5 - ₹16.8 lakhs per annum + dearness relief.",
+      "Allowances include HRA (24% of basic), sumptuary allowance, travel, etc."
+    ],
+    "Access to Courts": [
+      "E-Courts provide digital filing, case status, and scheduling information.",
+      "Delhi District Courts now handle cases up to ₹2 crore jurisdiction.",
+      "All India Judicial Service creation is under discussion for strengthening recruitment.",
+      "Infrastructure development is supported under Finance Commission awards.",
+      "National Mission for Justice Delivery and Legal Reforms is operational."
+    ],
+    "eCourts": [
+      "Use https://efiling.ecourts.gov.in for all types of digital case filing.",
+      "Submit petitions, affidavits, and documents in searchable PDF/A format.",
+      "Max upload limit: 20MB per document, larger files should be split.",
+      "Authenticate via Aadhaar OTP or digital signature.",
+      "Nayagarh support contact: Mr. Simadri Keshari Moharathy - 8420308420."
+    ],
+    "Judicial Appointments": [
+      "Appointments of SC/HC Judges managed by the Department of Justice.",
+      "Governor with President's consent can authorize regional language in High Courts.",
+      "Appointments of Judicial Officers in UTs is handled centrally.",
+      "Constitutional provisions: Article 124, 217 and Allocation of Business Rules, 1961."
+    ],
+    "e-Filing Guidelines": [
+      "Documents must follow format rules: Verdana font, 12pt, justified alignment.",
+      "Files must be submitted via e-filing portal or email (temporary).",
+      "Filings require a signature block or Aadhaar-based OTP authentication.",
+      "Court fees can be paid online via https://pay.ecourts.gov.in",
+      "Originals must be preserved and presented on court request."
+    ]
+  }  
